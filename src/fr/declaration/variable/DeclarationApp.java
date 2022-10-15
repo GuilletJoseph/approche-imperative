@@ -22,7 +22,8 @@ public class DeclarationApp {
 		System.out.println( l);	
 		System.out.println( f);	
 		System.out.println( d);	
-		System.out.println( c);	
+		System.out.println( c);
+		
 		System.out.println( st+"=Bonjour");	
 		System.out.println(randomString);
 
